@@ -1,0 +1,17 @@
+body {
+    background: #1E3E62; 
+    color: white; 
+}
+.table {
+    background: rgba(255, 255, 255, 0.8); 
+}
+
+#apiTable {
+    border-radius: 0.5rem; 
+    overflow: hidden; 
+    width: 100%; 
+}
+
+#apiTable td, #apiTable th {
+    padding: 1rem; 
+}
